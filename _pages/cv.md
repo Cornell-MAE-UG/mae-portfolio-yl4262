@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Yifan (Aven) Li - Curriculum Vitae
+title: Aven Li - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae

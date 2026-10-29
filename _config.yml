@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Yifan (Aven) Li 
+title                    : Aven Li 
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Yifan (Aven) Li 
-description              : Yifan (Aven) Li  - Projects and CV 
+name                     : Aven Li
+description              : Aven Li Li  - Projects and CV 
 baseurl                  : "/fa25-portfolio-yl4262/" # Set this to your repo name 
 url                      : "https://cornell-mae-ug.github.io"
 
